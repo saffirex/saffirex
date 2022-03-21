@@ -10,7 +10,7 @@
 
 - 📫 Mail **thesafaladk@gmail.com** OR **dusts430@gmail.com**
 
-- ⚡ Fun fact **I have a dozen WIPs I haven't go back to in ages.**
+- ⚡ Fun fact **There are a dozen WIPs I haven't gone back to in ages.**
 
 
 
