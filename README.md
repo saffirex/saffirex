@@ -8,9 +8,7 @@
 
 - 👨‍💻 Blender projects available at [www.artstation.com/saffire](www.artstation.com/saffire)
 
-- 📫 Mail **thesafaladk@gmail.com** OR **dusts430@gmail.com**
-
-- ⚡ Fun fact **There are a dozen WIPs I haven't gone back to in ages.**
+- www.safal-adhikari.com.np
 
 
 
