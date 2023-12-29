@@ -4,8 +4,6 @@
 <h3 align="center">A CS enthusiast from Nepal.</h3>
 <img align="right" alt="Img" width="300" src="https://i.imgur.com/n6IwZuf.gif">
 
-- 🌱 Interested in **CGI, Flutter, Django, AI**
-
 - 👨‍💻 Blender projects available at [www.artstation.com/saffire](www.artstation.com/saffire)
 
 - www.safal-adhikari.com.np
