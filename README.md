@@ -20,7 +20,7 @@ www.safal-adhikari.com.np <br>
 </p>
 
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saffirex&show_icons=true&locale=en&layout=compact" alt="saffirex" />
