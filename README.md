@@ -1,13 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Safal Adhikari</h1>
-<h3 align="center">A CS enthusiast from Nepal.</h3>
-<img align="right" alt="Img" width="300" src="https://i.imgur.com/n6IwZuf.gif">
+<h1 align="center">Safal Adhikari</h1>
+<h3 align="center">A Computer Engineering student from Nepal.</h3>
+<img align="right" alt="Img" width="300" src="https://media.giphy.com/media/6KKab1ydLq1uU/giphy.gif">
 
 - 👨‍💻 Blender projects available at [www.artstation.com/saffire](www.artstation.com/saffire)
-
-- www.safal-adhikari.com.np
-
 
 
 <h3 align="left">Connect:</h3>
