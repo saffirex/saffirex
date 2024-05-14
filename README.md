@@ -2,7 +2,7 @@
 
 <h1 align="center">Safal Adhikari</h1>
 <h3 align="center">A Computer Engineering student from Nepal.</h3>
-<img align="right" alt="Img" width="300" src="https://media.giphy.com/media/6KKab1ydLq1uU/giphy.gif">
+
 
 - 👨‍💻 Blender projects available at [www.artstation.com/saffire](www.artstation.com/saffire)
 
@@ -21,4 +21,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saffirex&show_icons=true&locale=en&layout=compact" alt="saffirex" /></p>
+<img align="right" alt="Img" width="300" src="https://media.giphy.com/media/6KKab1ydLq1uU/giphy.gif">
 
