@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Safal Adhikari</h1>
-<h3 align="center">A Computer Engineering student from Nepal.</h3> <br>
+<h3 align="center">A Computer Engineering student from Nepal.</h3> <br><br>
 
 
 
