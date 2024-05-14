@@ -6,9 +6,8 @@
 
 - 👨‍💻 Blender projects available at [www.artstation.com/saffire](www.artstation.com/saffire)
 
-
-<h3 align="left">Connect:</h3>
-<p align="left">
+<p align="center">
+[www.artstation.com/saffire](www.artstation.com/saffire)
 <a href="https://stackoverflow.com/users/17235769/saffirex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17235769/saffirex" height="30" width="40" /></a>
 <a href="https://fb.com/shuffle.5afal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuffle.5afal" height="30" width="40" /></a>
 <a href="https://instagram.com/saffire_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saffire_x" height="30" width="40" /></a>
